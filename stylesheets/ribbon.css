@@ -28,7 +28,7 @@
 .ribbon a,
 .ribbon a:hover {
   /* Set the font */
-  font: 700 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 700 18px "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #fff;
 
   /* Set the text properties */
@@ -38,12 +38,13 @@
 
   /* Set the geometry. If you fiddle with these you'll also need
      to tweak the top and right values in .ribbon. */
-  width: 200px;
+  width: 350px;
   line-height: 20px;
+
 
   /* Set the layout properties */
   display: inline-block;
-  padding: 2px 0;
+  padding: 2px 50px;
 
   /* Add "stitching" effect */
   border-width: 1px 0;
@@ -53,8 +54,8 @@
 }
 
 .ribbon-wrapper {
-  width: 150px;
-  height: 150px;
+  width: 500px;
+  height: 500px;
   position: absolute;
   overflow: hidden;
   top: 0;
@@ -89,8 +90,8 @@
 }
 
 .ribbon-wrapper.right .ribbon {
-  top: 42px;
-  right: -43px;
+  top: 82px;
+  right: -103px;
 
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
