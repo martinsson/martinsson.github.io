@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+    <link rel="stylesheet" href="stylesheets/ribbon.css">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>Formation Michael Feathers</title>
+
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="inner">
+
+        <header>
+          <h1>Reducing Technical Debt</h1>
+          <h2>16-17 juin 2014</h2>
+        </header>
+
+        <section id="downloads" class="clearfix">
+          Le programme sera bienôt disponible
+        </section>
+
+        <hr>
+
+        <section id="main_content">
+          <h3>Préinscription ouverte!</h3>
+          Bénéficiez d'un tarif préférentiel en vous inscrivant au plus tôt. Laissez-nous votre email et en reviendra vers vous avec plus d'informations.
+
+
+        <p>
+        <p>
+        <iframe src="https://docs.google.com/a/changit.fr/forms/d/104xm79FraJWftms8a6aIm6IT_p7cOyvjFOuh2KJ9ac0/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+        <p>
+        <em>Code quality is not a function of time spent coding, but time spent learning.</em></p>
+        </section>
+        
+      </div>
+    </div>
+  </body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46820891-1', 'changit.fr');
+  ga('send', 'pageview');
+
+</script>
+</html>
