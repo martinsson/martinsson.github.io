@@ -24,8 +24,26 @@
           <h2>16-17 juin 2014</h2>
         </header>
 
-        <section id="downloads" class="clearfix">
-          Le programme sera bienôt disponible
+        <section id="programme" class="clearfix">
+        <h3>Apprenez à</h3>
+        <ul>
+          <li>Identifier divers variétés de dette technique</li>
+          <li>Evaluer la quantité de dette dans une base de code</li>
+          <li>Construire des stratégies de design pour du refactoring de grande envergure et pour la réduction progressive des la dette</li>
+          <li>Changer les processus de l'équipe de de l'entreprise afin de rendre le refactoring un élément de première importance</li>
+        </ul>
+
+        Y sera traité :
+        <ul>
+          <li>A Pragmatic Definition of Technical Debt</li>
+          <li>Design Decision Cards</li>
+          <li>Feature Probes</li>
+          <li>Scratch Refactoring</li>
+          <li>Design Direction Tagging</li>
+          <li>Limited WIP Refactoring</li>
+          <li>Design Quality Trend Analysis</li>
+          <li>Systematic Refactoring/Rewriting</li>
+        </ul>
         </section>
 
         <hr>
