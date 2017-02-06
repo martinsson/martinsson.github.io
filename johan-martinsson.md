@@ -9,29 +9,10 @@ Johan favorite way of making his point in conferences is by showing code.
 Johan organized the first code retreat in France, organized the first ever Legacy Code Retreat with JB Rainsberger.
 Since 2009 he co-organizes the Grenoble coding dojo. In 2016 it was at its 130th session! He also co-organizes France’s biggest agile event: Agile Grenoble.
 
-# Abstracts
-
-## 
 
 # Résumés
 
 ## Code Utilisable
-
-Avez-vous pensé à l'utilisateur de votre code? Non pas celui qui utilise votre 
-application mais la personne qui doit faire évoluer votre code? Cette personne 
-a-t-elle un outil de travail (la base de code) facile à utiliser entre les mains? 
-Peut elle travailler efficacement?
-
-Dans d’autres domaines où l’utilisabilité est importante et étudié depuis des 
-décennies on utilise des techniques qui vont bien au delà du “code propre”, 
-sans pour autant qu’elles soient intrusives. Quelles sont ces techniques et 
-comment les traduire aux code et à l’architecture?
-
-"Ce n'est pas la faute de l'utilisateur, mais la faute du design."
-
-
-====
-
 
 Avez-vous pensé à l'utilisateur de votre code? Non pas celui qui utilise votre 
 application mais le développeur ou la développeuse qui doit changer le code après vous? 
@@ -44,6 +25,7 @@ par exemple, ils rappellent sans cesse
 > You're not your user!
 
 et
+
 > It's not the users fault, it's the designs fault. 
 
 Pourquoi? Quelle signification pour nous? Quelles sont les implications pour l’équipe et pour le code? 
