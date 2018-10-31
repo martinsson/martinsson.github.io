@@ -75,7 +75,7 @@ a:hover, a:active {
 .header-bar-email .fa {
     margin-right: 12px;
     font-size: 20px;
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .header-bar-text p {
@@ -120,7 +120,7 @@ a:hover, a:active {
     height: 50px;
     border: 0;
     color: #fff;
-    background: #19c880;
+    background: #ff5a66;
     cursor: pointer;
     outline: none;
 }
@@ -197,7 +197,7 @@ a:hover, a:active {
 }
 
 .site-title a span {
-    color: #19c880;
+    color: #ff5a66;
 }
 
 @media screen and (min-width: 576px){
@@ -309,7 +309,7 @@ a:hover, a:active {
 
 .site-navigation ul li a:hover,
 .site-navigation ul li.current-menu-item a {
-    color: #19c880;
+    color: #ff5a66;
 }
 
 /*
@@ -350,7 +350,7 @@ a:hover, a:active {
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #19c880;
+    color: #ff5a66;
     letter-spacing: 0.1em;
 }
 
@@ -380,7 +380,7 @@ a:hover, a:active {
 .hero-content-wrap .read-more a {
     display: block;
     padding: 12px 40px;
-    border: 2px solid #19c880;
+    border: 2px solid #ff5a66;
     font-size: 13px;
     font-weight: bold;
     color: #fff;
@@ -390,7 +390,7 @@ a:hover, a:active {
 }
 
 .hero-content-wrap .read-more a:hover {
-    background: #19c880;
+    background: #ff5a66;
 }
 
 /*--------------------------------------------------------------
@@ -444,7 +444,7 @@ a:hover, a:active {
 
 .icon-box .icon {
     font-size: 42px;
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .icon-box .entry-title {
@@ -463,7 +463,7 @@ a:hover, a:active {
     padding-right: 10px;
     font-size: 13px;
     font-weight: 700;
-    color: #19c880;
+    color: #ff5a66;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 0.1em;
@@ -516,8 +516,8 @@ a:hover, a:active {
 
 .courses-wrap .heading .courses-menu li a:hover,
 .courses-wrap .heading .courses-menu li.active a {
-    color: #19c880;
-    border-color: #19c880;
+    color: #ff5a66;
+    border-color: #ff5a66;
 }
 
 .mx-m-25 {
@@ -578,7 +578,7 @@ a:hover, a:active {
 }
 
 .course-author a {
-    color: #19c880;
+    color: #ff5a66;
     text-decoration: none;
 }
 
@@ -605,7 +605,7 @@ a:hover, a:active {
 .course-cost {
     font-size: 24px;
     font-weight: 700;
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .course-cost .price-drop {
@@ -747,7 +747,7 @@ a.btn:hover {
     margin-top: 16px;
     font-size: 60px;
     line-height: 1.2;
-    color: #19c880;
+    color: #ff5a66;
 }
 
 @media screen and (max-width: 576px) {
@@ -867,7 +867,7 @@ a.btn:hover {
     font-size: 16px;
     font-weight: 300;
     text-transform: uppercase;
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .testimonial-slider .testimonial-user::after {
@@ -896,7 +896,7 @@ a.btn:hover {
 }
 
 .testimonial-slider .swiper-pagination-bullet.swiper-pagination-bullet-active {
-    background: #19c880;
+    background: #ff5a66;
     border: transparent;
 }
 
@@ -1019,7 +1019,7 @@ a.btn:hover {
 
 .event-content .post-author a {
     font-style: italic;
-    color: #19c880;
+    color: #ff5a66;
     text-decoration: none;
 }
 
@@ -1244,7 +1244,7 @@ a.btn:hover {
 .pagination ul li:hover a,
 .pagination ul li.active a {
     border-color: transparent;
-    background: #19c880;
+    background: #ff5a66;
 }
 
 .pagination ul li:hover a,
@@ -1301,7 +1301,7 @@ a.btn:hover {
     width: 48px;
     height: 48px;
     border: 0;
-    background: #19c880;
+    background: #ff5a66;
     color: #fff;
     cursor: pointer;
     outline: none;
@@ -1342,7 +1342,7 @@ a.btn:hover {
 }
 
 .cat-links ul li:hover::before {
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .cat-links ul li a {
@@ -1515,7 +1515,7 @@ a.btn:hover {
 }
 
 .course-author a {
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .course-students {
@@ -1554,7 +1554,7 @@ ul.green-ticked li::before {
     height: 100%;
     font-size: 14px;
     font-family: 'FontAwesome';
-    color: #19c880;
+    color: #ff5a66;
 }
 
 ul.black-doted {
@@ -1592,7 +1592,7 @@ ul.black-doted {
 .single-course-accordion-cont .lectures-preview,
 .single-course-accordion-cont .total-lectures-time {
     font-size: 18px;
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .single-course-accordion-cont .number-of-lectures,
@@ -1622,7 +1622,7 @@ ul.black-doted {
 .single-course-accordion-cont .arrow-r {
     position: relative;
     padding-right: 10px;
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .single-course-accordion-cont .entry-title.active .fa-plus {
@@ -1703,7 +1703,7 @@ ul.black-doted {
     margin-right: 2px;
     font-size: 14px;
     font-family: 'FontAwesome';
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .instructors-details {
@@ -1733,7 +1733,7 @@ ul.black-doted {
 }
 
 .instructors-details .course-teacher a {
-    color: #19c880;
+    color: #ff5a66;
     font-weight: 600;
     text-transform: uppercase;
     text-decoration: navajowhite;
@@ -1760,7 +1760,7 @@ ul.black-doted {
 }
 
 .related-courses .entry-heading a {
-    color: #19c880;
+    color: #ff5a66;
     text-decoration: underline;
 }
 
@@ -1967,7 +1967,7 @@ ul.black-doted {
 .team-member h4 {
     font-size: 16px;
     font-weight: 400;
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .team-member ul {
@@ -1999,7 +1999,7 @@ ul.black-doted {
 
 .team-member ul li a:hover {
     border-color: transparent;
-    background: #19c880;
+    background: #ff5a66;
 }
 
 .team-member ul li a:hover .fa {
@@ -2064,7 +2064,7 @@ ul.black-doted {
 
 .blog-post-content-wrap .post-author a {
     font-style: italic;
-    color: #19c880;
+    color: #ff5a66;
     text-decoration: none;
 }
 
@@ -2108,7 +2108,7 @@ ul.black-doted {
 
 .single-blog-post .page-header .post-author a {
     font-style: italic;
-    color: #19c880;
+    color: #ff5a66;
     text-decoration: none;
 }
 
@@ -2201,7 +2201,7 @@ ul.black-doted {
     margin-top: 10px;
     font-size: 16px;
     font-weight: 500;
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .single-post-wrap img {
@@ -2254,7 +2254,7 @@ ul.black-doted {
 }
 
 .related-blog-posts .entry-heading a {
-    color: #19c880;
+    color: #ff5a66;
     text-decoration: underline;
 }
 
@@ -2294,7 +2294,7 @@ ul.author-social-profile .fa {
 }
 
 ul.author-social-profile li:hover .fa {
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .author-details {
@@ -2312,7 +2312,7 @@ ul.author-social-profile li:hover .fa {
     font-size: 16px;
     font-weight: 400;
     text-transform: uppercase;
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .author-details h3 span {
@@ -2388,7 +2388,7 @@ ul.author-social-profile li:hover .fa {
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 0.12em;
-    color: #19c880;
+    color: #ff5a66;
 }
 
 .post-comments-wrap p {
@@ -2418,7 +2418,7 @@ ul.author-social-profile li:hover .fa {
 .post-comments-wrap .reply a:hover {
     border-color: transparent;
     color: #fff;
-    background: #19c880;
+    background: #ff5a66;
 }
 
 .post-comments-wrap ol.children {
@@ -2476,7 +2476,7 @@ ul.author-social-profile li:hover .fa {
 .comment-form input[type="email"]:focus,
 .comment-form input[type="url"]:focus,
 .comment-form textarea:focus {
-    border-color: #19c880;
+    border-color: #ff5a66;
 }
 
 .comment-form input[type="submit"] {
@@ -2494,7 +2494,7 @@ ul.author-social-profile li:hover .fa {
     letter-spacing: 0.1rem;
     outline: none;
     cursor: pointer;
-    background: #19c880;
+    background: #ff5a66;
 }
 
 /*--------------------------------------------------------------
@@ -2566,7 +2566,7 @@ ul.author-social-profile li:hover .fa {
     letter-spacing: 0.1rem;
     outline: none;
     cursor: pointer;
-    background: #19c880;
+    background: #ff5a66;
 }
 
 .contact-info p {
