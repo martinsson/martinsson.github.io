@@ -2677,6 +2677,13 @@ p.footer-copyright {
     background: #49a7f3;
 }
 
+.footer-widgets .follow-us .fa-medium {
+    background: #00ab6c;
+}
+
+.footer-widgets .follow-us .fa-linkedin {
+    background: #0077B5;
+}
 .footer-bar {
     padding: 30px 0;
     border-top: 1px solid #ebebeb;
