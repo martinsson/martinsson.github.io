@@ -1,0 +1,21 @@
+{
+  "name": "site-changit",
+  "version": "1.0.0",
+  "description": "my company's website",
+  "main": "wallaby.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "fs-extra": "^7.0.1",
+    "node-ts": "^2.1.2",
+    "typescript": "^3.1.6"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "compile": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}

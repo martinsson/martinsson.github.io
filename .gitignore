@@ -1,3 +1,6 @@
 .idea
 .DS_Store
 index.sublime-workspace
+node_modules
+retours/*.js 
+retours/retours-tdd.csv
