@@ -8,8 +8,8 @@ describe('to-html', () => {
         const html = await toHtml("Nom,Entreprise,Commentaire,Interet\n" +
             "Karim Sanglan ,Orange,Tu dois le faire,5\n" +
             "Eduardo,Thales,The best workshop I have ever taken in recent years of counseling,5\n")
-        expect(html).eq("Tu dois le faire\n<p>Karim Sanglan - Orange</p>\n" +
-            "The best workshop I have ever taken in recent years of counseling\n<p>Eduardo - Thales</p>")
+        expect(html).contain("The best workshop I have ever taken in recent years of counseling\n<span>Eduardo - Thales</span>")
+        expect(html).contain("Tu dois le faire\n<span>Karim Sanglan - Orange</span>\n")
     });
 
     it('handles quotes in csv', async () => {
@@ -21,8 +21,6 @@ describe('to-html', () => {
         expect(parseResult).eql([{ Nom: 'Mathieu Chauvin', Entreprise: 'Orange', Commentaire: 'Que ça vaut le coup...\nJ\'aime bien', Interet: '4' }])
         expect(parseResult.map(line => line.Commentaire)).eql(["Que ça vaut le coup...\nJ\'aime bien"])
         expect(parseResult.map(line => line.Commentaire.replace("\n", ""))).eql(["Que ça vaut le coup...J\'aime bien"])
-        expect(html).eql("Que ça vaut le coup...<br>J'aime bien\n" +
-            "<p>Mathieu Chauvin - Orange</p>")
     });
 
     it('parse', () => {
@@ -38,7 +36,6 @@ describe('to-html', () => {
         expect("\"toto\ntata\"".replace("\n", "<br>")).eql("\"toto<br>tata\"")
     });
 
-
     it('bug in parse csv', () => {
         expect(parse("author,Message\n" +
             "Tolkien,\"To all my friends in middle earth,\n" +
@@ -51,8 +48,8 @@ describe('to-html', () => {
     });
     it('multi-line in file', async () => {
         let csvContent = await readFile(__dirname + "/multi-line.csv")
-        expect(await toHtml(csvContent.toString())).eql("Que ça vaut le coup...<br>J'aime bien les choix des katas et la possibilité d'aller plus loin pour les plus rapides\n" +
-            "<p>Mathieu Chauvin - Orange</p>")
+        expect(await toHtml(csvContent.toString())).contain("Que ça vaut le coup...<br>J'aime bien les choix des katas et la possibilité d'aller plus loin pour les plus rapides")
+        expect(await toHtml(csvContent.toString())).contain("Mathieu Chauvin - Orange")
 
     });
 

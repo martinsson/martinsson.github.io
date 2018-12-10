@@ -12,7 +12,9 @@ export async function toHtml(csvContent: string) {
         const phrase = line.Commentaire.replace("\n", '<br>' )
         const name = line.Nom.trim()
         const company = line.Entreprise
-        return `${phrase}\n<p>${name} - ${company}</p>`
+        return "<blockquote>\n" +
+            `${phrase}\n<span>${name} - ${company}</span>\n` +
+            "</blockquote>"
     }).join('\n')
 
 }
