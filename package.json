@@ -4,7 +4,12 @@
   "description": "my company's website",
   "main": "wallaby.js",
   "dependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/csv-parse": "^1.1.11",
+    "@types/fs-extra": "^5.0.4",
+    "@types/mocha": "^5.2.5",
     "chai": "^4.2.0",
+    "csv-parse": "^4.1.0",
     "fs-extra": "^7.0.1",
     "node-ts": "^2.1.2",
     "typescript": "^3.1.6"
@@ -14,7 +19,8 @@
   },
   "scripts": {
     "test": "mocha",
-    "compile": "tsc"
+    "compile": "tsc",
+    "retours-tdd": "node retours/run-to-html"
   },
   "author": "",
   "license": "ISC"
