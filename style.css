@@ -1506,6 +1506,26 @@ a.btn:hover {
     margin-right: 20px;
     border-right: 1px solid #ebebeb;
 }
+.course-info .inscription {
+     margin-top: 20px;
+ }
+
+.course-info .inscription a {
+    display: block;
+    padding: 12px 20px;
+    border: 2px solid #19c880;
+    font-size: 13px;
+    font-weight: bold;
+    color: #19c880;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-decoration: none;
+}
+
+.course-info .inscription a:hover {
+    color: #fff;
+    background: #19c880;
+}
 
 .course-author img {
     width: 60px;
