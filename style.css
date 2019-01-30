@@ -2743,3 +2743,8 @@ p.footer-copyright {
 .footer-bar-nav ul li a:hover {
     color: #34d986;
 }
+
+.image-in-text img {
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
