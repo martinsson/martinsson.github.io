@@ -1,14 +1,10 @@
 # Bio
 
-Johan Martinsson is a freelance developer and craftsman that is passionate, amongst other things, about design in code. 
-He has spent many years helping teams adopt XP-practices, in particular TDD and advanced coding. 
-One of Johan's primary skills is the ability to contaminate almost anyone with at least a few craftsman practices.
+Johan Martinsson est un développeur freelance qui se passionne entre autres pour le design du code. Avec 19 ans d’expérience professionnel, il a passé les 10 dernières années à aider des équipes de maîtriser le développement accompagné de tests dans de multiples langages. Les entreprises apprécient particulièrement sa capacité à exploiter les synergies entre besoin business et approche qualité dans le code.
 
-Johan favorite way of making his point in conferences is by showing code. 
+Régulièrement il trouve des (bonnes) excuses pour aller montrer un peu de code dans des conférences en France et à l'international. Johan est un serial-kata creator, ayant crée de nombreux katas pour s'entraîner.
 
-Johan organized the first code retreat in France, organized the first ever Legacy Code Retreat with JB Rainsberger.
-Since 2009 he co-organizes the Grenoble coding dojo. In 2016 it was at its 130th session! He also co-organizes France’s biggest agile event: Agile Grenoble.
-
+Johan est instigateur ou co-organisateur de nombreux cercles et évènements communautaires, tels que des coding dojo, meetups craftsmanship, code-retreats, les rencontres européennes SoftDevGang, Agile Grenoble, Snowcamp et le tout dernier AlpesCraft. 
 
 # Résumés
 
